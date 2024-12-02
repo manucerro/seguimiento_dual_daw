@@ -22,6 +22,7 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 13:00
 
 **Actividad:** Visité las instalaciones, recibí la tarjeta y el ordenador. Luego estuvimos configurando los portátiles para conseguir el acceso a la intranet, correo de empresa, VPN, etc... Una vez configurado todo, nos llevaron a nuestros puestos y nos instalaron las pantallas y nos familiarizaron con estos. Finalmente hice unas últimas configuraciones y finalicé el día.
+
 ---
 
 ## Día 2 <br>  21/11/2024
@@ -48,6 +49,7 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 15:00
 
 **Actividad:** Hoy en el curso hemos visto más sobre las variables, hemos visto cómo declarar clases y más teoría.
+
 ---
 
 ## Día 5 <br>  28/11/2024
