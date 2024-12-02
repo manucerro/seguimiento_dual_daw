@@ -1,4 +1,4 @@
-# Bitacora de FP Dual
+# Bitácora de FP Dual
 
 ## Información General
 - **Nombre del Practicante:** Manuel Cerro Torres
