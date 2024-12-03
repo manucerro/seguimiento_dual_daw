@@ -78,3 +78,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Empezamos terminando el proyecto que dejamos a medias el día anterior, y nos dedicamos a aprender más sobre la corrección de errores y el uso de tests en Eclipse. Nos enseña a usar el coverage y cómo realizar tests correctamente y posteriormente comparte pantalla para enseñarnos cómo crear un proyecto desde 0. Tiene intenticón de que el proyecto alcance cierta complejidad y lo dejamos a medias por falta de tiempo. El proyecto consiste en la creación de una tienda de pollo.
 
 ---
+
+## Día 8 <br>   03/12/2024
+
+**Entrada:** 8:20 <br>
+**Salida:** 14:50
+
+**Actividad:** He empezado el curso a la hora habitual, no hemos terminado el ejercicio del día anterior, en vez de eso, hemos visto el uso de static en Java, hemos realizado unos ejercicios de encapsulación, y después del descanso hemos visto las diferentes colecciones que existen en Java, su uso, y los Iterator.
+
+---
