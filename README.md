@@ -87,3 +87,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** He empezado el curso a la hora habitual, no hemos terminado el ejercicio del día anterior, en vez de eso, hemos visto el uso de static en Java, hemos realizado unos ejercicios de encapsulación, y después del descanso hemos visto las diferentes colecciones que existen en Java, su uso, y los Iterator.
 
 ---
+
+## Día 9 <br>   05/12/2024
+
+**Entrada:** 8:20 <br>
+**Salida:** 14:50
+
+**Actividad:** He empezado el curso de Java y hemos avanzado en el tema de colecciones que dejamos a medias el día anterior. Después del descanso que hemos terminado a las 11:30h, han mandado una tarea que consistía en repartir Strings en diferente grupos de manera aleatoria. Hemos pasado el tiempo restante del día haciendo este ejercicio.
+
+---
