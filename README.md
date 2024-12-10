@@ -96,3 +96,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** He empezado el curso de Java y hemos avanzado en el tema de colecciones que dejamos a medias el día anterior. Después del descanso que hemos terminado a las 11:30h, han mandado una tarea que consistía en repartir Strings en diferente grupos de manera aleatoria. Hemos pasado el tiempo restante del día haciendo este ejercicio.
 
 ---
+
+## Día 10 <br>   10/12/2024
+
+**Entrada:** 8:20 <br>
+**Salida:** 14:50
+
+**Actividad:** Hoy hemos visto los argumentos variables en Java. Después hemos continuado la mañana con un ejercicio práctico que hemos estado realizando durante una hora y para finalizar, hemos profundizado en el tema de las interfaces dando temario nuevo.
+
+---
