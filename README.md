@@ -105,3 +105,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hoy hemos visto los argumentos variables en Java. Después hemos continuado la mañana con un ejercicio práctico que hemos estado realizando durante una hora y para finalizar, hemos profundizado en el tema de las interfaces dando temario nuevo.
 
 ---
+
+## Día 11 <br>   12/12/2024
+
+**Entrada:** 8:20 <br>
+**Salida:** 14:50
+
+**Actividad:** Hemos empezado terminando el ejercicio del día anterior y para finalizar el día, hemos aprendido un poco sobre SpringBoot
+
+---
