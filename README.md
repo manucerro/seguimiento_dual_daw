@@ -108,8 +108,8 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 
 ## Día 11 <br>   12/12/2024
 
-**Entrada:** 8:20 <br>
-**Salida:** 14:50
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
 
 **Actividad:** Hemos empezado terminando el ejercicio del día anterior y para finalizar el día, hemos aprendido un poco sobre SpringBoot
 
