@@ -114,3 +114,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos empezado terminando el ejercicio del día anterior y para finalizar el día, hemos aprendido un poco sobre SpringBoot
 
 ---
+
+## Día 12 <br>   13/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos estado toda la mañana avanzando con teoría sobre SpringBoot y cómo conectar el código en Java con el servidor. Al final del día hemos hecho un pequeño ejercicio práctico sobre lo que hemos dado a lo largo del día y hemos terminado con un pequeño vídeo promocional de un evento de Java que se realiza todos los años en Noruega.
+
+---
