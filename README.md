@@ -123,3 +123,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos estado toda la mañana avanzando con teoría sobre SpringBoot y cómo conectar el código en Java con el servidor. Al final del día hemos hecho un pequeño ejercicio práctico sobre lo que hemos dado a lo largo del día y hemos terminado con un pequeño vídeo promocional de un evento de Java que se realiza todos los años en Noruega.
 
 ---
+
+## Día 13 <br>   16/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy hemos aprendido más sobre los controladores en Java para el lanzamiento de aplicaciones mediante SpringBoot. Después de eso, nos han enseñado a manejar la aplicación "Postman" la cuál usamos para añadir requests fácilmente a nuestro programa y también crear nuevas instancias de objetos mediante el uso de JSON. Todo esto lo enlazaremos con el aprendizaje del uso apropiado de APIs. El próximo día aprenderemos más sobre el control de errores en Postman.
+
+---
