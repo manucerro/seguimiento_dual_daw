@@ -132,3 +132,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hoy hemos aprendido más sobre los controladores en Java para el lanzamiento de aplicaciones mediante SpringBoot. Después de eso, nos han enseñado a manejar la aplicación "Postman" la cuál usamos para añadir requests fácilmente a nuestro programa y también crear nuevas instancias de objetos mediante el uso de JSON. Todo esto lo enlazaremos con el aprendizaje del uso apropiado de APIs. El próximo día aprenderemos más sobre el control de errores en Postman.
 
 ---
+
+## Día 14 <br>   17/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos estado aprendiendo sobre el control de errores en Java y sobre las API rests. Al acabar el día hemos hecho un ejercicio que ha resumido lo dado en los últimos 4 días.
+
+---
