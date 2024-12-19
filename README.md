@@ -141,3 +141,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos estado aprendiendo sobre el control de errores en Java y sobre las API rests. Al acabar el día hemos hecho un ejercicio que ha resumido lo dado en los últimos 4 días.
 
 ---
+
+## Día 15 <br>   19/12/2024
+
+**Entrada:** 8:20 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy hemos pasado toda la sesión avanzando en una parte del proyecto, al finalizar hemos visto por encima en 15 minutos el temario que se va a ver a la vuelta de vacaciones.
+
+---
