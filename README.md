@@ -159,3 +159,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos dado poca teoría, hemos hecho un repaso general, y luego un test para evaluar nuestros conocimientos hasta el momento. Después del descanso, hemos hecho un proyecto individual que hemos entregado hasta las 13:00, y a esa misma hora hemos ido a la zona de cafetería a hacer el brindis de Navidad.
 
 ---
+
+## Día 17 <br>   09/01/2025
+
+**Entrada:** 8:20 <br>
+**Salida:** 15:00
+
+**Actividad:** La primera hora del curso se ha dedicado a repasar conceptos dados antes de las Navidades para refrescar conocimientos, después de eso hemos avanzado rápido con temario nuevo porque vamos un poco atrasados. Hemos visto el uso de streams y se ha realizado un ejercicio al final de la clase.
+
+---
