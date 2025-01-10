@@ -168,3 +168,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** La primera hora del curso se ha dedicado a repasar conceptos dados antes de las Navidades para refrescar conocimientos, después de eso hemos avanzado rápido con temario nuevo porque vamos un poco atrasados. Hemos visto el uso de streams y se ha realizado un ejercicio al final de la clase.
 
 ---
+
+## Día 18 <br>   10/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos empezado corrigiendo los ejercicios del día anterior de streams, y el resto de la sesión hemos estado viendo teoría sobre JPA y bases de datos de H2 para aprender a enlazar ya tablas reales de bases de datos a nuestros proyectos de Java y dejar de utilizar HashMaps para simularlas.
+
+---
