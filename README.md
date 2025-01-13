@@ -177,3 +177,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos empezado corrigiendo los ejercicios del día anterior de streams, y el resto de la sesión hemos estado viendo teoría sobre JPA y bases de datos de H2 para aprender a enlazar ya tablas reales de bases de datos a nuestros proyectos de Java y dejar de utilizar HashMaps para simularlas.
 
 ---
+
+## Día 19 <br>   13/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos seguido viendo cómo enlazar una base de datos H2 a nuestro proyecto de Java, y cómo mapear las diferentes clases para enlazarlas a las columnas y tablas de dicha base de datos. Después hemos hecho un ejercicio para afianzar los conocimientos y para terminar nos han explicado el modelo de arquitectura de 3 capas y cómo el próximo día vamos a modificar nuestro proyecto para separar la tecnología  de la capa de "integration" de la capa de "buissiness", que es donde hemos puesto las anotaciones necesarias de mapping.
+
+---
