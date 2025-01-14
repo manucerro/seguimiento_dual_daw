@@ -193,4 +193,5 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 15:00
 
 **Actividad:** Hemos continuado el tema de mapping de base de datos con nuevas etiquetas de mapeo y al final de la sesión hemos actualizado el proyecto que vamos ampliando día a día con esta nueva arquitectura, pasando de un modelo estático a uno más dinámico.
+
 ---
