@@ -186,3 +186,11 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos seguido viendo cómo enlazar una base de datos H2 a nuestro proyecto de Java, y cómo mapear las diferentes clases para enlazarlas a las columnas y tablas de dicha base de datos. Después hemos hecho un ejercicio para afianzar los conocimientos y para terminar nos han explicado el modelo de arquitectura de 3 capas y cómo el próximo día vamos a modificar nuestro proyecto para separar la tecnología  de la capa de "integration" de la capa de "buissiness", que es donde hemos puesto las anotaciones necesarias de mapping.
 
 ---
+
+## Día 20 <br>   14/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos continuado el tema de mapping de base de datos con nuevas etiquetas de mapeo y al final de la sesión hemos actualizado el proyecto que vamos ampliando día a día con esta nueva arquitectura, pasando de un modelo estático a uno más dinámico.
+---
