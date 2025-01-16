@@ -195,3 +195,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos continuado el tema de mapping de base de datos con nuevas etiquetas de mapeo y al final de la sesión hemos actualizado el proyecto que vamos ampliando día a día con esta nueva arquitectura, pasando de un modelo estático a uno más dinámico.
 
 ---
+
+## Día 20 <br>   16/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos repasado lo dado en los últimos dos días y hemos terminado aprendiendo a usar la etiqueta de @Query para el manejo de bases de datos con SQL dentro de una aplicación Java.
+
+---
