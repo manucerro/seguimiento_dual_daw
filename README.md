@@ -204,3 +204,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos repasado lo dado en los últimos dos días y hemos terminado aprendiendo a usar la etiqueta de @Query para el manejo de bases de datos con SQL dentro de una aplicación Java.
 
 ---
+
+## Día 21 <br>   17/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Al ser el final del tercer bloque, hemos terminado de dar un poco de teoría y después hemos hecho una prueba teórica en forma de test y otra práctica en forma de proyecto, que hemos entregado y serán evaluadas.
+
+---
