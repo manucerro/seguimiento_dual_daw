@@ -213,3 +213,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Al ser el final del tercer bloque, hemos terminado de dar un poco de teoría y después hemos hecho una prueba teórica en forma de test y otra práctica en forma de proyecto, que hemos entregado y serán evaluadas.
 
 ---
+
+## Día 22 <br>   20/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos continuado practicando lo dado la última semana y ampliando y mejorando el proyecto.
+
+---
