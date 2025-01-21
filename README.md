@@ -222,3 +222,13 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos continuado practicando lo dado la última semana y ampliando y mejorando el proyecto.
 
 ---
+
+## Día 23 <br>   21/01/2025
+
+**Entrada:** 9:30 <br>
+**Salida:** 15:00
+
+**Actividad:** He entrado algo más tarde hoy debido a una cita médica que ya ha sido notificada y justificada. Una vez he llegado, estaban viendo cómo realizar conexiones con el frontend mediante Controllers, y hemos estado realizando unos HTMLs sencillos donde hemos estado invocando métodos y mostrando información de la base de datos.
+
+---
+
