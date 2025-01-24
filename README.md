@@ -240,3 +240,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hoy hemos seguido viendo instrucciones de JSP y al final de la clase hemos estado modificando el frontend de la página web del proyecto.
 
 ---
+
+## Día 25 <br>   24/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos terminado con el temario de JSP y hemos continuado con testing. Hemos visto un poco de teoría y hemos acabado la sesión haciendo varios ejercicios prácticos de tests.
+
+---
