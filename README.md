@@ -238,4 +238,5 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 15:00
 
 **Actividad:** Hoy hemos seguido viendo instrucciones de JSP y al final de la clase hemos estado modificando el frontend de la página web del proyecto.
+
 ---
