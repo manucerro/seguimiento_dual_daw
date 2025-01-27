@@ -249,3 +249,11 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos terminado con el temario de JSP y hemos continuado con testing. Hemos visto un poco de teoría y hemos acabado la sesión haciendo varios ejercicios prácticos de tests.
 
 ---
+
+## Día 26 <br>   27/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos seguido viendo tests y hemos terminado dando un nuevo tipo de tests especializados en controladores.
+---
