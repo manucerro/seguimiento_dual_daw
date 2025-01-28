@@ -256,4 +256,15 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 15:00
 
 **Actividad:** Hemos seguido viendo tests y hemos terminado dando un nuevo tipo de tests especializados en controladores.
+
 ---
+
+## Día 27 <br>   28/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Me han cambiado de proyecto y van a intentar hacer un cambio de PEM. Mi nuevo proyecto será de GISS. Mientras tanto, en la formación, hemos visto cómo usar Dozer y hemos modificado el proyecto para implementar esta nueva teconología.
+
+---
+
