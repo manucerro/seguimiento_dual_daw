@@ -270,7 +270,7 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 
 ## Día 28 <br>   30/01/2025
 
-**Entrada:** -
+**Entrada:** - <br>
 **Salida:** -
 
 **Actividad:** Falta (justificada).
@@ -279,7 +279,7 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 
 ## Día 29 <br>   31/01/2025
 
-**Entrada:** -
+**Entrada:** - <br>
 **Salida:** -
 
 **Actividad:** Falta (justificada).
