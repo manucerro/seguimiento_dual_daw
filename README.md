@@ -294,3 +294,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Hemos empezando la última semana de curso con el tema de seguridad, para poder encriptar bien nuestro proyecto, y que el acceso a este sea seguro, la tecnología que hemos usado es JWT.
 
 ---
+
+## Día 31 <br>   06/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos seguido con Java Security y hemos terminado la clase haciendo una nueva página en el proyecto de auditorías, que exponía en una tabla todos los datos de los usuarios que entraban en la web, entre ellos la IP, la hora y día de acceso, cuánto tiempo ha estado en la web, etc.
+
+---
