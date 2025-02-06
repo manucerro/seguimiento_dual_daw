@@ -295,11 +295,20 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 
 ---
 
-## Día 31 <br>   06/02/2025
+## Día 31 <br>   04/02/2025
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
 
 **Actividad:** Hemos seguido con Java Security y hemos terminado la clase haciendo una nueva página en el proyecto de auditorías, que exponía en una tabla todos los datos de los usuarios que entraban en la web, entre ellos la IP, la hora y día de acceso, cuánto tiempo ha estado en la web, etc.
+
+---
+
+## Día 32 <br>   06/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Es el penúltimo día de curso y estamos puliendo los últimos detalles del proyecto, nos hemos centrado en crear una página de login y jugar con los tokens de acceso. Me han cambiado ya definitivamente de proyecto y de PEM de cara a la FCT. Ahora estoy en un proyecto de la GISS.
 
 ---
