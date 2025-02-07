@@ -312,3 +312,12 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Actividad:** Es el penúltimo día de curso y estamos puliendo los últimos detalles del proyecto, nos hemos centrado en crear una página de login y jugar con los tokens de acceso. Me han cambiado ya definitivamente de proyecto y de PEM de cara a la FCT. Ahora estoy en un proyecto de la GISS.
 
 ---
+
+## Día 33 <br>   07/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos estado puliendo cosas del proyecto y he terminado la formación de máster de Java. Me han vuelto a cambiar de proyecto al equipo de ciberseguridad de Viewnext, a la rama de seguridad de aplicaciones, y me han mandado ya, de cara al lunes, una serie de presentaciones y cursos que realizar.
+
+---
