@@ -14,6 +14,8 @@
 
 A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:00, la media hora antes de empezar la dedico siempre a encender con tiempo y terminar los detalles del proyecto visto el día anterior, y la hora de después la dedico a guardar cosas en Drive, terminar ejercicios y hacer la Bitacora de la FP Dual. El curso de Java empieza el día 22/11/2024 y se preveé que acabe (puede cambiar) el día 10/02/2025. Actualmente desconozco el proyecto al que seré asignado después de acabar la formación.
 
+El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
+
 ---
 
 ## Día 1 <br>   20/11/2024
@@ -319,5 +321,14 @@ A partir del tercer día, empiezo el curso de Java, el horario es de 9:00 a 14:0
 **Salida:** 15:00
 
 **Actividad:** Hemos estado puliendo cosas del proyecto y he terminado la formación de máster de Java. Me han vuelto a cambiar de proyecto al equipo de ciberseguridad de Viewnext, a la rama de seguridad de aplicaciones, y me han mandado ya, de cara al lunes, una serie de presentaciones y cursos que realizar.
+
+---
+
+## Día 34 <br>   10/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He estado viendo PDFs que me mandó el tutor relacionados con la ciberseguridad, para aprender las bases y no he podido hacer los cursos que mandó porque hoy ha estado enfermo y no ha atendido al Teams, los haré mañana.
 
 ---
