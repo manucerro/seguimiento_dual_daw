@@ -332,3 +332,12 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He estado viendo PDFs que me mandó el tutor relacionados con la ciberseguridad, para aprender las bases y no he podido hacer los cursos que mandó porque hoy ha estado enfermo y no ha atendido al Teams, los haré mañana.
 
 ---
+
+## Día 35 <br>   11/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He hecho llamada esta mañana con mi nuevo tutor, y me ha mandado estudiar una página web con las 25 infracciones más comunes de ciberseguridad, e instalar SonarQube. He estado toda la mañana instalando el programa y dependencias necesarias y he terminado el día modificando el word desactualizado que me pasó con las instrucciones para la instalación.
+
+---
