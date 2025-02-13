@@ -341,3 +341,12 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He hecho llamada esta mañana con mi nuevo tutor, y me ha mandado estudiar una página web con las 25 infracciones más comunes de ciberseguridad, e instalar SonarQube. He estado toda la mañana instalando el programa y dependencias necesarias y he terminado el día modificando el word desactualizado que me pasó con las instrucciones para la instalación.
 
 ---
+
+## Día 36 <br>   13/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He instalado una máquina virtual de Debian donde he empezado a aprender cómo atacar una aplicación web de diferentes maneras. He empezado con SQL Injection.
+
+---
