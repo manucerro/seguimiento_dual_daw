@@ -350,3 +350,13 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He instalado una máquina virtual de Debian donde he empezado a aprender cómo atacar una aplicación web de diferentes maneras. He empezado con SQL Injection.
 
 ---
+
+## Día 37 <br>   14/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He estado usando BurpSuite y ZAP, que son herramientas para atacar webs e identificar fallas en seguridad, junto a páginas como WebGoat, DVWA y JuiceShop para aprender cómo hacer inyecciones SQL, XSS (inyecciones de JavaScript, Path Traversal, XXE (inyecciones de XML malicioso), inyección de comandos de SO y CSRF (Cross-Site Request Forgery). Todo esto son diferentes formas de ataque registradas en el top 10 de OWASP que necesito saber para poder defenderlas con propiedad.
+
+---
+
