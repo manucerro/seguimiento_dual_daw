@@ -360,3 +360,13 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 
 ---
 
+## Día 38 <br>   17/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He estado comparando los resultados al pasar un proyecto por varias herramientas de análisis y he hecho un par de cursos sencillos de XSS y XXE.
+
+---
+
+
