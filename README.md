@@ -3,9 +3,9 @@
 ## Información General
 - **Nombre del Practicante:** Manuel Cerro Torres
 - **Empresa:** ViewNext
-- **Área o Departamento:** Java
+- **Área o Departamento:** Java y Ciberseguridad
 - **Período de las Prácticas:** 20/11/2024 - 17/03/2025  
-- **Asesores Internos:**  José Fernando López Delgado (PEM) 
+- **Asesores Internos:** Roberto Francisco Sánchez Pérez (PEM) 
 - **Asesor Académico:** María Carmen Moreno Cortés
 
 ---
