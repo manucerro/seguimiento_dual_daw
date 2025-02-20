@@ -369,4 +369,20 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 
 ---
 
+## Día 39 <br>   19/02/2025
 
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** Empecé leyendo unos PDFs que me había mandado mi PEM de ciberseguridad pero mi ordenador se quedó pillado y se lo tuve que dar al de sistemas para que lo formateara. Me dijo que iba a tardar 3 horas y esperé en la oficina, cuando pasaron fui a recogerlo pero me dijo que no estaba todavía y mi encargado me dijo que me podía ir a casa y recogerlo el próximo día.
+
+---
+
+## Día 40 <br>   20/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** Me han devuelto el ordenador a las 10:00 y me he pasado toda la mañana reinstalando programas y poniéndolo todo a punto de nuevo, el PEM sabe de esto y no me ha mandado nada nuevo.
+
+---
