@@ -386,3 +386,12 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** Me han devuelto el ordenador a las 10:00 y me he pasado toda la mañana reinstalando programas y poniéndolo todo a punto de nuevo, el PEM sabe de esto y no me ha mandado nada nuevo.
 
 ---
+
+## Día 41 <br>   21/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** Me he pasado el día leyendo el PDF de ASVS (Application Security Verification Standard) de OWASP y comparándolo con el Word de Buenas Prácticas de Programación de Viewnext.
+
+---
