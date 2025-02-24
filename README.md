@@ -395,3 +395,11 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** Me he pasado el día leyendo el PDF de ASVS (Application Security Verification Standard) de OWASP y comparándolo con el Word de Buenas Prácticas de Programación de Viewnext.
 
 ---
+
+## Día 42 <br>   24/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** Al igual que el último día, he seguido con el PDF de ASVS y al terminar, me he puesto a leer el ENS (Esquema Nacional de Seguridad) y los principios de seguridad de IBM.
+---
