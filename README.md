@@ -402,4 +402,13 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Salida:** 14:00
 
 **Actividad:** Al igual que el último día, he seguido con el PDF de ASVS y al terminar, me he puesto a leer el ENS (Esquema Nacional de Seguridad) y los principios de seguridad de IBM.
+
+---
+
+## Día 43 <br>   25/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** He seguido leyendo lo mismo que ayer, sin cambios.
 ---
