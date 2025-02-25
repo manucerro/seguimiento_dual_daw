@@ -411,4 +411,5 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Salida:** 14:00
 
 **Actividad:** He seguido leyendo lo mismo que ayer, sin cambios.
+
 ---
