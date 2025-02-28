@@ -422,3 +422,12 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He estado leyendo el PDF de resolución de errores de OWASP y he estado documentando la instalación y funcionamiento de SecurityShepherd, una herramient para aprender a hacer pen-testing de OWASP.
 
 ---
+
+## Día 45 <br>   28/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 14:00
+
+**Actividad:** Me he pasado la mañana usando la web de SecurityShepherd con BurpSuite.
+
+---
