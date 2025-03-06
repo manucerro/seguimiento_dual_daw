@@ -381,7 +381,7 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 40 <br>   20/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** Me han devuelto el ordenador a las 10:00 y me he pasado toda la mañana reinstalando programas y poniéndolo todo a punto de nuevo, el PEM sabe de esto y no me ha mandado nada nuevo.
 
@@ -390,7 +390,7 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 41 <br>   21/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** Me he pasado el día leyendo el PDF de ASVS (Application Security Verification Standard) de OWASP y comparándolo con el Word de Buenas Prácticas de Programación de Viewnext.
 
@@ -399,7 +399,7 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 42 <br>   24/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** Al igual que el último día, he seguido con el PDF de ASVS y al terminar, me he puesto a leer el ENS (Esquema Nacional de Seguridad) y los principios de seguridad de IBM.
 
@@ -408,7 +408,7 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 43 <br>   25/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** He seguido leyendo lo mismo que ayer, sin cambios.
 
@@ -417,7 +417,7 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 44 <br>   27/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** He estado leyendo el PDF de resolución de errores de OWASP y he estado documentando la instalación y funcionamiento de SecurityShepherd, una herramient para aprender a hacer pen-testing de OWASP.
 
@@ -426,8 +426,17 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 ## Día 45 <br>   28/02/2025
 
 **Entrada:** 8:15 <br>
-**Salida:** 14:00
+**Salida:** 15:00
 
 **Actividad:** Me he pasado la mañana usando la web de SecurityShepherd con BurpSuite.
+
+---
+
+## Día 46 <br>   06/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He seguido haciendo ejercicios de SecurityShepherd, pronto empezaré a documentar la aplicación y se la presentaré a mi PEM para ver si se puede hacer un curso sobre ella.
 
 ---
