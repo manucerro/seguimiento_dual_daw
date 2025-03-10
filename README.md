@@ -440,3 +440,21 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He seguido haciendo ejercicios de SecurityShepherd, pronto empezaré a documentar la aplicación y se la presentaré a mi PEM para ver si se puede hacer un curso sobre ella.
 
 ---
+
+## Día 47 <br>   07/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He empezado con la documentación de la apicación, he explicado para qué sirve, cómo se instala y cómo se usa el proxy.
+
+---
+
+## Día 48 <br>   10/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He seguido con la documentación, ahora estoy con el tutorial de los ejercicios de la aplicación.
+
+---
