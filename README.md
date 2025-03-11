@@ -458,3 +458,12 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 **Actividad:** He seguido con la documentación, ahora estoy con el tutorial de los ejercicios de la aplicación.
 
 ---
+
+## Día 49 <br>   11/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He terminado con la documentación de las soluciones de los ejercicios de Security Shepherd y he estado maquetando el documento. Lo he terminado y se lo he mandado a mi PEM.
+
+---
