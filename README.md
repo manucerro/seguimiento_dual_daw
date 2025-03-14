@@ -468,11 +468,29 @@ El curso acabó el 07/02/2025 y he entrado en el equipo de ciberseguridad.
 
 ---
 
-## Día 50 <br>   11/03/2025
+## Día 50 <br>   13/03/2025
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
 
 **Actividad:** Le he presentado el documento al PEM y le he explicado cómo funciona todo. Luego he estado investigando e informándome sobre GitHub Actions, que es una teconología que se va a usar en el proyecto en el que se me van a poner de Mapfre.
+
+---
+
+## Día 51 <br>   14/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He seguido investigando la teconología de GitHub Actions y la he estado poniendo en práctica con algunos proyectos que tenía de prueba.
+
+---
+
+## Día 52 <br>   17/03/2025
+
+**Entrada:** 12:30 <br>
+**Salida:** 13:00
+
+**Actividad:** Este día era extra, así que con permiso del PEM, me he quedado de casa, simplemente hemos hecho una reunión en la que hemos estado viendo si nos podemos conectar a la apliación de Security Shepherd desde casa, porque la red de Viewnext no dejaba.
 
 ---
